@@ -1,0 +1,104 @@
+.bg{
+  background-image: url("./bg.jpg");
+  border-style: inset outset;
+  border-color: greenyellow;
+  border-width: 10px;
+}
+.menu{
+  display: inline-block;
+font-size: large;
+color: white;
+background-color: black;
+border-radius: 4ch;
+border-color:  red;
+border-width: 5px;
+border-style: solid;
+position: absolute;
+}
+
+.menu1{width: 180px;
+padding: 20px;
+position: relative;
+bottom: 20px;
+left: 220px;
+}
+.menu2{
+  width: 250px;
+  padding: 1rem;
+  position: relative;
+  bottom: 35px;
+  left: 170px;
+}
+.menu3{width:220px;
+  padding: 20px;
+  position: relative;
+  left: 400px;
+}
+.forms{
+  font-color:red;
+  color: red;
+  background-color: white;
+  width: 300px;
+  height: 500px;
+  border: 7px;
+  border-style: dashed ;
+  text-align: center;
+position: relative;
+top: 10px;
+left: 700px;
+justify-content: space-between;
+}
+.circle{
+  text-decoration: underline ;
+  justify-content: space-evenly;
+  padding: 80px;
+  margin-top: 1px;
+  text-align: start;
+  width: 140px;height: 140px;
+  background-color: teal;
+  border-radius: 100%;
+  border: 4px;
+  border-style:solid;
+  border-color: rgb(194, 154, 206);
+  display:inline-block;flex-flow: row wrep;
+  position: relative;
+  bottom: 300px;
+  left: 120px;
+}
+.menu4{text-align: center;
+  width: 155px;height:30px;padding: 10px 50px 10px 50px;
+  position: relative;left:300px;
+}
+.food{
+color: blue;
+background-color: aquamarine;
+width: 220px;
+border-radius: 3ch;
+border-color: green;
+border-style: solid;
+text-align: center;
+}
+.card1{
+  position: absolute;
+ left: 190px ;top:1000px ;
+}
+.card2{
+position: relative;
+left: 545px;top: 35px; ;
+}
+.card3{
+position: relative;
+left:900px ;bottom:212px ;
+}
+.card4{
+position: absolute;
+left: 190px;
+}
+.card5{
+position: relative;
+left:545px ;
+}
+.card6{
+position: relative;
+left:900px ;bottom:247px;
+}
